@@ -6,3 +6,4 @@ let card3 = 'I like Snack and Car.'
 // Display the card with the information in the correct place.
 console.log(card1+card2+card3)
 // Example: “Hi, my name is John. I live in South Africa and enjoy drinking homemade wine.”
+
